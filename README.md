@@ -1,4 +1,4 @@
-### ESP32-S-Seat-Control
+# ESP32-S-Seat-Control
 This project provides a reliable asynchronous web server firmware for the ESP32-S microcontroller, designed for automotive seat adjustment and accessory switching. It implements a hybrid control model featuring a latching switch mode for accessory management and four momentary push channels for precise motor positioning.
 
 # Key Features
@@ -26,9 +26,9 @@ Active-Low Relay Logic: Safely configures and handles standard multi-channel rel
 
 <img width="410" height="272" alt="image" src="https://github.com/user-attachments/assets/7571c0cb-df6f-4ba1-86a8-18f4363845e6" />
 
-
-
-
+#
+#
+#
 
 
 I used the step-down converter to bring the 12V supply from the car cigarette lighter down to 5V. With it, I powered both the relays and the ESP32 (via the 5V pin). After that, I ran wires from the programmed pins on the ESP32 to each individual relay. The interesting part is the motor connections: each motor is connected to two relays at the middle, meaning at the common (COM) terminals. Normally Closed (NC) goes directly to the chassis ground, while Normally Open (NO) is wired to the 12V line from the fuse box, allowing the motor to spin in both directions. I should also mention that the seat still works using the original physical buttons, as I didn't remove them.
