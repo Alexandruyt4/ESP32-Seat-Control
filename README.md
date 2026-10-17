@@ -22,3 +22,8 @@ Active-Low Relay Logic: Safely configures and handles standard multi-channel rel
 
 <img width="462" height="293" alt="image" src="https://github.com/user-attachments/assets/c57fadcf-1d0a-4a32-876f-509d68833be2" />
 
+# Mini DC-DC Step-Down Power Module (5 V, 3 A) 
+
+<img width="410" height="272" alt="image" src="https://github.com/user-attachments/assets/7571c0cb-df6f-4ba1-86a8-18f4363845e6" />
+
+
