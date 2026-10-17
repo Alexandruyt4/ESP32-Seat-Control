@@ -36,3 +36,7 @@ The interesting part of the project is the motor connection setup: each motor is
 It's also worth noting that the seat still operates via its original factory buttons, as I kept them fully functional alongside the new system.
 
 
+
+https://github.com/user-attachments/assets/a578b1a4-c46d-42ec-8597-41d6e282fe16
+
+
