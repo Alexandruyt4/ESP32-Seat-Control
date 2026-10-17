@@ -13,3 +13,12 @@ Embedded Access Point (AP): Creates an independent local Wi-Fi network (Control_
 Asynchronous Web Server: Built on ESPAsyncWebServer for fast, non-blocking HTTP request handling and responsive mobile UI rendering.
 
 Active-Low Relay Logic: Safely configures and handles standard multi-channel relay modules, ensuring proper state initialization on boot.
+
+# RELAY
+
+<img width="753" height="355" alt="image" src="https://github.com/user-attachments/assets/efcc5a57-51c4-4ca2-95f1-be7407317c6f" />
+
+# ESP 32
+
+<img width="462" height="293" alt="image" src="https://github.com/user-attachments/assets/c57fadcf-1d0a-4a32-876f-509d68833be2" />
+
